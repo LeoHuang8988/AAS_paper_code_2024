@@ -1,0 +1,4 @@
+Note: 
+- Figure A1 was generated from 'Heap maps v3.2.1.R' in the 'heatmaps' folder; the relevant baseline optimisation results for those four cases were computed from 'Optimisation for case B scenarios.R', 'Optimisation for case S scenarios.R', 'Optimisation for case H1 scenarios.R' and 'Optimisation for case H2 scenarios.R'.   
+- Since the balance grid settings in the hire-management cases (H1 and H2) have undergone a few minor adjustments, there might be a slight discrepancy with the results presented in the paper, such as a difference of no more than 0.01% in the CEC results.
+- The code files 'Optimisation for case B scenarios.R', 'Optimisation for case S scenarios.R', 'Optimisation for case H1 scenarios.R' and 'Optimisation for case H2 scenarios.R' also include scenario/sensitivity test scenarios. 

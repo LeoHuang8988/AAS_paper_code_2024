@@ -1,0 +1,1 @@
+Note: Figure 1 was generated from 'benchmark plot.R'.
